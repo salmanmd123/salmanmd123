@@ -1,6 +1,6 @@
 ![My Banner](Banner.png)
 <p align="center">
-  <img src="images/banner.png" alt="Project Banner" width="100%"  />
+  <img src="Banner.png" alt="Project Banner" width="100%"  />
 </p>
 
 # 💫 About Me:
