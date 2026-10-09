@@ -1,4 +1,4 @@
-![My Banner](banner.png)
+![My Banner](Banner.png)
 
 # 💫 About Me:
 I’m Mohammed Salman, a Computer Science Engineering student at Deccan College of Engineering and Technology, affiliated with Osmania University. I’m passionate about technology, especially Web Development, AI, machine learning, and cybersecurity. I enjoy coding, participating in hackathons, and exploring new technologies. I’m always eager to learn, collaborate, and apply my skills to real-world challenges.
